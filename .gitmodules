@@ -1,0 +1,3 @@
+[submodule "apps/demo-2"]
+	path = apps/demo-2
+	url = https://github.com/mychaelgo/turbolift-demo-2
